@@ -1,33 +1,29 @@
 <div align="center">
 
-<!-- SECTION G: VISITOR COUNTER -->
 <img src="https://komarev.com/ghpvc/?username=sudharshanreddyakki&label=Profile%20Views&color=0e75b6&style=flat" alt="sudharshanreddyakki" />
 
-<!-- SECTION A: ANIMATED HEADER -->
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 # Hi, I'm Sudharshan Reddy Akki 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Software+Engineer+%7C+2%2B+Years+Experience;Building+Scalable+Cloud+%26+Microservices+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=650&height=100&lines=Software+Engineer+%7C+2%2B+Years+Experience;Building+Software+That+Survives+Failure;Offline-First+%7C+Distributed+Systems+%7C+Cloud)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-<!-- SECTION B: ABOUT ME -->
 ## 🚀 About Me
 
-I'm a passionate **Software Engineer** with **2+ years** of experience building robust, scalable backend systems and cloud-native applications. I thrive on solving complex engineering challenges with clean, efficient code.
+I'm a passionate **Full-Stack Software Engineer** with **2+ years** of experience building robust, scalable backend systems and cloud-native applications. I build systems that keep operating when networks fail, automate costly workflows, and expose failure modes before users feel them.
 
 - 🎥 I create tech content on **YouTube, Medium & Instagram** — sharing tutorials, tips, and insights
 - 🌩️ Currently crafting **Microservices** on **Azure & AWS**
-- 🧠 Always learning — currently diving deeper into **distributed systems & AI integrations**
+- 🧠 Focused on **offline-first architectures, distributed consensus, and spatial data systems**
 - ⚡ Fun fact: I debug code faster with coffee than without it ☕
-- 💡 Believer in writing code that even future-me will understand
+- 💡 MS Computer Science @ University of Illinois Springfield
 
 ---
 
-<!-- SECTION C: TECH STACK -->
 ## 🛠️ Tech Stack
 
 **Backend**
@@ -36,27 +32,38 @@ I'm a passionate **Software Engineer** with **2+ years** of experience building 
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 **Cloud & DevOps**
 
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 
 **Database & Tools**
 
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ---
 
-<!-- SECTION D: SOCIAL MEDIA LINKS -->
+## 🔥 Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [offline-first-delivery-sync](https://github.com/sudharshanreddyakki/offline-first-delivery-sync) | Offline-first sync engine: 99.94% success rate, 1200+ drivers | React Native, SQLite, PostgreSQL, Redis, Kafka |
+| [raft-replicated-state-machine](https://github.com/sudharshanreddyakki/raft-replicated-state-machine) | Raft consensus: leader election, quorum writes, partition recovery | Python, PostgreSQL, Docker |
+| [spatial-indexing-core](https://github.com/sudharshanreddyakki/spatial-indexing-core) | R-Tree spatial index: 84x faster than O(n) scan | Python, PostgreSQL, PostGIS |
+
+---
+
 ## 🌐 Connect with Me
 
 <div align="center">
@@ -70,7 +77,6 @@ I'm a passionate **Software Engineer** with **2+ years** of experience building 
 
 ---
 
-<!-- SECTION E: GITHUB STATS -->
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -88,7 +94,20 @@ I'm a passionate **Software Engineer** with **2+ years** of experience building 
 
 ---
 
-<!-- SECTION F: GITHUB TROPHIES -->
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sudharshanreddyakki/sudharshanreddyakki/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sudharshanreddyakki/sudharshanreddyakki/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/sudharshanreddyakki/sudharshanreddyakki/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -99,7 +118,6 @@ I'm a passionate **Software Engineer** with **2+ years** of experience building 
 
 ---
 
-<!-- SECTION H: FOOTER -->
 ## 🤝 Let's Connect
 
 <div align="center">
